@@ -1,0 +1,12 @@
+Paket sa igrackama -> Broj automobila: 3 Tezina: 12 Cena: 200 Adresa: Omladinska  Boja: plava
+
+ Paketic sa hranom -> Broj cokolada: 5 Tezina: 10 Cena: 50 Adresa: Ratarska  Boja: zuta
+
+Paket sa igrackama -> Broj automobila: 3 Tezina: 12 Cena: 200 Adresa: Omladinska  Boja: plava
+
+ Paketic sa hranom -> Broj cokolada: 5 Tezina: 10 Cena: 50 Adresa: Ratarska  Boja: zuta
+
+Paket sa igrackama -> Broj automobila: 3 Tezina: 12 Cena: 200 Adresa: Omladinska  Boja: plava
+
+ Paketic sa hranom -> Broj cokolada: 5 Tezina: 10 Cena: 50 Adresa: Ratarska  Boja: zuta
+
